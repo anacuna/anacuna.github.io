@@ -1,3 +1,4 @@
+
 body{
   background:#c0c0c0;
 }
@@ -115,7 +116,7 @@ margin: auto;
 }
 .gallery ul {
   height: 130px;
-  width: 9999px;
+  width: 99999999px;
   margin: 0;
   padding: 0;
   list-style: none;
@@ -125,5 +126,3 @@ margin: auto;
 .gallery li {
   display: inline-block;
 }
-
-
